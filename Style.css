@@ -1,0 +1,187 @@
+/* code Exercice 1 */
+
+.alert{
+    width: 80%;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+#primary{
+    color: #155724;
+    background-color: #d4eddd;
+    border: 1PX solid #c3e6cb;
+}
+
+#success{
+    color: blueviolet;
+    background-color: aqua;
+    border: 1PX solid red;
+}
+
+#danger{
+    color: #721c24;
+    background-color: #f8d7da;
+    border: 1PX solid #f5c6cb;
+}
+#warning{
+    color: #856404;
+    background-color: #fff3cd;
+    border: 1PX solid #ffccba;
+}
+
+#dark{
+    color: #1b1e21;
+    background-color: #d6d8d9;
+    border: 1PX solid #c6c8ca;
+}
+
+/* code Exercice 2 */
+
+.btn{
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid red;
+    color: white;
+    margin-left: 10px;
+    
+}
+
+#primarry{
+    background-color: #007bff;
+}
+
+#succes{
+    background-color: #28a745;
+}
+
+
+#dangger{
+    background-color: #dc3545;
+}
+
+#warningg{
+    background-color: #ffc107;
+    color: black;
+}
+#darkk{
+    background-color: #343a40;
+}
+
+
+/* Boutons 2 */
+
+.dv1{
+    display: block;
+    height: 100px;
+ 
+}
+
+
+.btn{
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid red;
+    color: rgb(224, 140, 14);
+    margin-left: 10px;
+    
+    
+}
+
+#pri:hover{
+    color: #007bff;
+    background-color: #6fe48a;
+    
+}
+
+#suc:hover{
+    color: #28a745;
+    background-color: #6fe48a;
+}
+
+#dan:hover{
+    color:  #dc3545;
+    background-color: #6fe48a;
+}
+
+#war:hover{
+    color: #ffc107;
+    background-color: #6fe48a;
+}
+
+#dar:hover{
+    color: #343a40;
+    background-color: #6fe48a;
+}
+
+/* code Exercice 3 */
+
+.colombie{
+    width: 80%;
+    margin:auto;
+    text-align: center;
+}
+
+.drap{
+    height: 400px;
+}
+
+.jaune{
+    background-color: #fcd116;
+    height: 50%;
+}
+
+.bleu{
+    background-color: #003893;
+    height: 25%;
+}
+
+.rouge{
+    background-color: #ce1126;
+    height: 25%;
+}
+
+/* Code Exercice 4 */
+
+.CO{
+    width: 80%;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.d1{
+    background-color: #4976c9;
+    height: 100px;
+    width: 25%;
+    border-right: 5px solid black;
+
+}
+
+
+.d2{
+    background-color: #375897;
+    height: 100px;
+    width: 50%;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    
+}
+
+
+.d3{
+    background-color:#243b64;
+    height: 100px;
+    width: 75%;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+}
+
+
+.d4{
+    background-color: #121d32;
+    height: 100px;
+    width: 100%;
+    border-top: 5px solid black;
+}
+
